@@ -1,6 +1,6 @@
 using System;
 
-namespace Fractions
+namespace JanskyFractions
 {
   class Fraction
   {
