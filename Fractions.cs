@@ -13,6 +13,11 @@ namespace JanskyFractions
       denominator = d;
     }
     
+    public double ConvertToDecimal()
+    {
+      return numerator / denominator;
+    }
+    
     
   }
   
